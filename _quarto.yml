@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Clémence Dedinger"
+  site-url: https://clemencededinger.github.io
   navbar:
     title: false
     left:
@@ -29,5 +30,6 @@ format:
     anchor-sections: false
     include-in-header:
       - text: |
+          <meta name="google-site-verification" content="UQKDROkf2uP6nnIkC-GIHUWGrF_BQLsrUwtRzRVPBZ8" />
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.4/css/academicons.min.css">
           <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
